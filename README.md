@@ -2,11 +2,11 @@
 Họ tên       : Nguyễn Trần Ý Nhi
 MSSV         : 4959010140
 Lớp          : GDTH K49C
-Chuyên ngành : Giáo DỤc Tiểu Học
-     * TIÊU ĐỀ NGHIÊN CỨU CHỌN Ở NV2 *
+Chuyên ngành : Giáo Dục Tiểu Học
+       * TIÊU ĐỀ NGHIÊN CỨU CHỌN Ở NV2 *
 Phát triển tư duy ngôn ngữ
 Vận dụng thuyết đa trí tuệ 
-     * DANH SÁCH TRÍCH DẪN NGẮN GỌN *
+       * DANH SÁCH TRÍCH DẪN NGẮN GỌN *
 1. NGHIÊN CỨU LÍ LUẬN VỀ QUẢN LÍ DẠY HỌC TIẾNG VIỆT Ở LỚP 4 THEO HƯỚNG PHÁT TRIỂN NĂNG LỰC NGÔN NGỮ
    Tác giả      : Nguyễn Thị Thúy
    Năm xuất bản :2025
